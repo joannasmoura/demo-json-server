@@ -3,7 +3,7 @@
       {
         "id": 1,
         "nome": "Infra 1",
-        "status": "Ligado",
+        "status": 1,
         "processos": [
             {
                 "id":1,
@@ -18,7 +18,7 @@
       {
         "id": 2,
         "nome": "Infra 2",
-        "status": "Desligado",
+        "status": 1,
         "processos": [
             {
                 "id":3,
@@ -33,7 +33,7 @@
       {
         "id": 3,
         "nome": "Dev 1",
-        "status": "Ligado",
+        "status": 0,
         "processos": [
             {
                 "id":4,
@@ -48,7 +48,7 @@
       {
         "id": 4,
         "nome": "Dev 2",
-        "status": "Desligado",
+        "status": 0,
         "processos": [
             {
                 "id":2,
@@ -63,7 +63,7 @@
       {
         "id": 3,
         "nome": "Coord",
-        "status": "Ligado",
+        "status": 1,
         "processos": [
             {
                 "id":6,
