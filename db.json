@@ -43,42 +43,42 @@
         "dataVencimento": "2019-12-26T00:00:00.111Z",
         "codigo": "23790.50400 41991.223201 52008.109200 8 81150000019910",
         "valor":199.10,
-        "pago":true
+        "quitado":true
       },
       {
         "id": 2,
         "dataVencimento": "2019-12-24T00:00:00.111Z",
         "codigo": "12390.50402 41991.223201 52008.109200 2 81130000025555",
         "valor":255.55,
-        "pago":true
+        "quitado":true
       },
       {
         "id": 3,
         "dataVencimento": "2020-01-05T00:00:00.111Z",
         "codigo": "23790.50400 41991.223201 52008.109200 8 81150000030025",
         "valor":300.25,
-        "pago":false
+        "quitado":false
       },
       {
         "id": 4,
         "dataVencimento": "2020-01-03T00:00:00.111Z",
         "codigo": "12390.50402 41991.223201 52008.109200 2 81130000079999",
         "valor":799.99,
-        "pago":false
+        "quitado":false
       },
       {
         "id": 5,
         "dataVencimento": "2020-02-03T00:00:00.111Z",
         "codigo": "23790.50400 41991.223201 52008.109200 8 81150000019900",
         "valor":467.28,
-        "pago":false
+        "quitado":false
       },
       {
         "id": 6,
         "dataVencimento": "2020-02-07T00:00:00.111Z",
         "codigo": "12390.50402 41991.223201 52008.109200 2 81130000025555",
         "valor":98.70,
-        "pago":false
+        "quitado":false
       }
     ]
   }
