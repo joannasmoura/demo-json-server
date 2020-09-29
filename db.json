@@ -102,6 +102,7 @@
     ],
     "grupos":[
       {
+        "id":1,
         "nome":"Vendas",
         "links":[
           {
@@ -119,6 +120,7 @@
         ]
       },
       {
+        "id":2,
         "nome":"SAC",
         "links":[
           {
@@ -132,6 +134,7 @@
         ]
       },
       {
+        "id":3,
         "nome":"Delivery",
         "links":[
           {
